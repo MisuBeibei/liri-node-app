@@ -11,5 +11,11 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 1. Run npm install
 1. At command prompt run node liri.js
 
+###Screenshots
+![concert-this](/Screenshots/concert-this.png)
+![movie-this](/Screenshots/movie-this.png)
+![spotify-this-song](Screenshots/spotify-this-song.png)
+![do-what-it-says](Screenshots/do-what-it-says.png)
+
 ###Logging Commands and Responses
 All command line and responses will be logged in the "log.txt" file in the folder.
